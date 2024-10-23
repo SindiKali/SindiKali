@@ -1,26 +1,26 @@
-# Perfil: 
+# :vhs: Perfil: 
 
-## Visitas no perfil:
+## :eye: Visitas no perfil:
 ![visitas em perfil](https://profile-counter.glitch.me/Sindkali/count.svg)
 
-## Linguagens:
-[![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Sindkali&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+## :page_with_curl: Linguagens:
+[![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Sindkali&hide=html&layout=compact&theme=synthwave&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## Classificação:
-[![m4ttpizz4](https://github-readme-stats.vercel.app/api?username=Sindkali&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+## :100: Classificação:
+[![m4ttpizz4](https://github-readme-stats.vercel.app/api?username=Sindkali&theme=synthwave&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## Ofensiva:
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sindkali&theme=tokyonight&hide_border=false)
+## :fire: Ofensiva:
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sindkali&theme=Synthwave&hide_border=true)
 
-## Competências em:
+## :file_folder: Competências em:
 
-### Sistemas:
+### :computer: Sistemas:
 
 ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 
 ![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=black)
 
-### Linguagens:
+### :notebook_with_decorative_cover: Linguagens:
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
@@ -29,8 +29,6 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-![Markdown](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
@@ -42,10 +40,17 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-## Outros:
+## :books: Outros:
 
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+
+![Git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
+## :euro: Etherium Wallet:
+
+![image](https://github.com/user-attachments/assets/c4e31920-20b6-4e87-8158-381aeaf29f7c) \
+__**0x5656cf2Ceb176Fac51b2E2D4273b8f0da1D749BA :shipit:**__
