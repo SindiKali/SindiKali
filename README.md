@@ -38,3 +38,8 @@
 ![MarkDown](https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=plastic&logo=microsoft-office&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=plastic&logo=visual-studio-code&logoColor=007ACC)
+
+### 🔗 Links:
+
+[![Static Badge](https://img.shields.io/badge/Portf%C3%B3lio%20-%20orange?style=for-the-badge)](https://recondite-margin-309.notion.site/Portf-lio-216942f6e7308083ba9bdc9045a0e708?source=copy_link)
+[![Static Badge](https://img.shields.io/badge/Contatos%20-%20gray?style=for-the-badge)](https://ayo.so/sindikali)
