@@ -10,7 +10,7 @@
 [![Sindkali](https://github-readme-stats.vercel.app/api?username=Sindikali&theme=jolly&show_icons=true&hide_border=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :fire: Ofensiva:
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sindikali&theme=jolly&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SindiKali&theme=jolly&hide_border=true)
 
 ## :file_folder: Competências em:
 
