@@ -42,5 +42,5 @@
 
 ### 🔗 Links:
 
-[![Static Badge](https://img.shields.io/badge/Portf%C3%B3lio%20-%20orange?style=for-the-badge)](https://recondite-margin-309.notion.site/Portf-lio-216942f6e7308083ba9bdc9045a0e708?source=copy_link)
+[![Static Badge](https://img.shields.io/badge/Portf%C3%B3lio%20-%20orange?style=for-the-badge)](https://sindikali.github.io)
 [![Static Badge](https://img.shields.io/badge/Contatos%20-%20gray?style=for-the-badge)](https://ayo.so/sindikali)
