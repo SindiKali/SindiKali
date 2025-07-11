@@ -1,7 +1,7 @@
 # :vhs: Perfil:
 
 ## :eye: Visitas no perfil:
-![visitas em perfil](https://profile-counter.glitch.me/Sindkali/count.svg)
+![visitas em perfil](https://profile-counter.glitch.me/Sindikali/count.svg)
 
 ## :page_with_curl: Linguagens:
 [![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Sindikali&hide=html&layout=donut&theme=jolly&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
