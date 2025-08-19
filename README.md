@@ -1,4 +1,4 @@
-# :vhs: Perfil:n
+# :vhs: Perfil:
 
 ## :eye: Visitas no perfil:
 ![visitas em perfil](https://profile-counter.glitch.me/Sindikali/count.svg)
