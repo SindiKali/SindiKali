@@ -4,7 +4,7 @@
 ![visitas em perfil](https://profile-counter.glitch.me/Sindikali/count.svg)
 
 ## :page_with_curl: Linguagens:
-[![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Sindikali&hide=html&layout=donut&theme=jolly&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Sindikali&hide=html,css&layout=donut&theme=jolly&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :100: Classificação:
 [![Sindkali](https://github-readme-stats.vercel.app/api?username=Sindikali&theme=jolly&show_icons=true_border=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
