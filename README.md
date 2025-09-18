@@ -1,13 +1,13 @@
 # :vhs: Perfil: 
 
 ## :eye: Visitas no perfil:
-![visitas em perfil](https://profile-counter.glitch.me/Sindikali/count.svg)
+![visitas em perfil](https://profile-counter.glitch.me/SindiKali/count.svg)
 
 ## :page_with_curl: Linguagens:
-[![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Sindikali&hide=html,css&layout=donut&theme=jolly&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SindiKali&hide=html,css&layout=donut&theme=jolly&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :100: Classificação:
-[![Sindkali](https://github-readme-stats.vercel.app/api?username=Sindikali&theme=jolly&show_icons=true_border=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Sindkali](https://github-readme-stats.vercel.app/api?username=SindiKali&theme=jolly&show_icons=true_border=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :fire: Ofensiva:
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SindiKali&theme=jolly&hide_border=true)
