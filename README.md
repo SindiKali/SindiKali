@@ -6,15 +6,13 @@
 
   ---
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SindiKali&theme=jolly&show_icons=true&hide_border=true&rank_icon=github" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SindiKali&theme=jolly&hide_border=true" />
-  </a>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SindiKali&theme=jolly&show_icons=true&hide_border=true&rank_icon=github" alt="Github Stats" />
+  
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=SindiKali&theme=jolly&hide_border=true" alt="Streak Stats" />
 
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SindiKali&hide=html,css&layout=donut&theme=jolly&hide_border=true" />
-  </a>
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SindiKali&layout=compact&theme=jolly&hide_border=true&hide=html,css" alt="Top Langs" />
 
   ---
 
