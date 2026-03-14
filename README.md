@@ -16,7 +16,7 @@
 
   #### ** 🔐  JAVA ENCRYPTED CHAT (In Progress)**
   Chat P2P criptografado com AES para comunicação segura entre IPs.
-  * **Stack:** Java Networking (Sockets), javax.crypto.
+  **Stack:** Java Networking (Sockets), javax.crypto.
 
   ---
 
