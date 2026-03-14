@@ -14,7 +14,7 @@
 
   ### :file_folder: Projetos de Destaque
 
-  #### ** 🔐  JAVA ENCRYPTED CHAT (In Progress)**
+  #### 🔐  JAVA ENCRYPTED CHAT (In Progress)
   Chat P2P criptografado com AES para comunicação segura entre IPs.
   **Stack:** Java Networking (Sockets), javax.crypto.
 
