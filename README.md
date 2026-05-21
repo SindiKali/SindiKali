@@ -1,6 +1,6 @@
 <div align="center">
 
-  # :vhs: Sindi Kali | Software & Security
+  # :vhs: Sindi Kali | Software & Aesthetic
 
   ![Visitas](https://komarev.com/ghpvc/?username=SindiKali&label=ACCESSED&color=ff69b4&style=flat-square)
 
