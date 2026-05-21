@@ -8,7 +8,7 @@
 
   ### 💻 System Status
   
-  Desenvolvedora focada em **Java**, **Cibersegurança** e **Sistemas Linux**. Atualmente construindo o **Cyber Vault** e aprofundando conhecimentos através do **Harvard CS50**.
+  Desenvolvedora focada em **Java**, **Cibersegurança** e **Sistemas Linux**.
 
   ---
 
