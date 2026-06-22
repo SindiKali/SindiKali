@@ -8,7 +8,7 @@
 
   ### 💻 System Status
   
-  Desenvolvedora focada em **Java**, **Cibersegurança** e **Sistemas Linux**.
+  Apenas uma gestora de assistência técnica.
 
   ---
 
