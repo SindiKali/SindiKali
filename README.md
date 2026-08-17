@@ -1,49 +1,47 @@
+<h1 align="center">💻 Sindi Kali | Software & Hacking</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB&color=ff69b4&style=flat-square" alt="Access Counter" />
+</p>
+
+---
+
+### 💻 System Status
+> Apenas uma cientista que ama xadrez e mulheres.
+
+---
+
+### 📁 Projetos de Destaque
+
+*   **🔒 JAVA ENCRYPTED CHAT**
+    *   **Descrição:** Chat P2P criptografado com AES para comunicação segura entre IPs.
+    *   **Stack:** `Java Networking (Sockets)`, `javax.crypto`.
+    *   *Link para o repositório em breve.*
+
+---
+
+### ✍️ Artigos & Publicações
+*   📝 **Medium:** [Acesse meu perfil](https://medium.com/@seu-usuario) (Compartilhando estudos e reflexões técnicas).
+*   🚀 **Dev.to:** [Acesse meu perfil](https://dev.to/seu-usuario) (Documentando a jornada em código e segurança).
+
+---
+
+### 🛍️ Tech Stack
+
+**Sistemas Operacionais**
+`🐧 Linux` `🪟 Windows`
+
+**Linguagens e Frameworks**
+`☕ Java` `🐍 Python` `🟡 JavaScript` `🔷 C#` `⚡ C++`
+
+---
+
+### 🔲 Connect with the Admin
 <div align="center">
-
-  # :vhs: Sindi Kali | Software & Hacking
-
-  ![Visitas](https://komarev.com/ghpvc/?username=SindiKali&label=ACCESSED&color=ff69b4&style=flat-square)
-
-  ---
-
-  ### 💻 System Status
-  
-  Apenas uma cientista e amante de xadrez e mulheres.
-
-  ---
-
-  ### :file_folder: Projetos de Destaque
-
-  #### 🔐  JAVA ENCRYPTED CHAT
-  Chat P2P criptografado com AES para comunicação segura entre IPs.
-  **Stack:** Java Networking (Sockets), javax.crypto.
-
-  ---
-
-  ### 🧰 Tech Stack
-
-  #### **Sistemas Operacionais**
-  <div>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-  </div>
-
-  <br/>
-
-  #### **Linguagens e Frameworks**
-  <div>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  </div>
-
-  <br/>
-
-  ### :envelope: Connect with the Admin
-  <a href="https://ayo.so/sindikali">
-    <img src="https://img.shields.io/badge/TERMINAL_DE_CONTATO-FF69B4?style=for-the-badge&logo=linktree&logoColor=white" alt="Contatos" />
+  <a href="mailto:seu-email@provedor.com">
+    <img src="https://img.shields.io/badge/Terminal-Contato-ff69b4?style=for-the-badge&logo=terminal&logoColor=white" alt="Terminal de Contato"/>
   </a>
-
+  <a href="https://github.com/seu-usuario">
+    <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </div>
