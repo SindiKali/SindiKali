@@ -1,7 +1,7 @@
 <h1 align="center">💻 Sindi Kali | Software & Hacking</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB&color=ff69b4&style=flat-square" alt="Access Counter" />
+  <img src="https://komarev.com/ghpvc/?username=SindiKali&color=ff69b4&style=flat-square" alt="Access Counter" />
 </p>
 
 ---
