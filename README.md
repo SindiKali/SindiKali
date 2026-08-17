@@ -1,6 +1,6 @@
 <div align="center">
 
-  # :vhs: Sindi Kali | Software & Aesthetic
+  # :vhs: Sindi Kali | Software & Hacking
 
   ![Visitas](https://komarev.com/ghpvc/?username=SindiKali&label=ACCESSED&color=ff69b4&style=flat-square)
 
@@ -8,7 +8,7 @@
 
   ### 💻 System Status
   
-  Apenas uma gestora de assistência técnica.
+  Apenas uma cientista e amante de xadrez e mulheres.
 
   ---
 
