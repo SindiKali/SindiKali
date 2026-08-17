@@ -21,8 +21,8 @@
 ---
 
 ### ✍️ Artigos & Publicações
-*   📝 **Medium:** [Acesse meu perfil](https://medium.com/@seu-usuario) (Compartilhando estudos e reflexões técnicas).
-*   🚀 **Dev.to:** [Acesse meu perfil](https://dev.to/seu-usuario) (Documentando a jornada em código e segurança).
+*   📝 **Medium:** [Acesse meu perfil](https://medium.com/@sindi.kali) (Compartilhando estudos e reflexões técnicas).
+*   🚀 **Dev.to:** [Acesse meu perfil](https://dev.to/sindikali) (Documentando a jornada em código e segurança).
 
 ---
 
@@ -38,10 +38,10 @@
 
 ### 🔲 Connect with the Admin
 <div align="center">
-  <a href="mailto:seu-email@provedor.com">
+  <a href="mailto:sindikali.sdct@gmail.com">
     <img src="https://img.shields.io/badge/Terminal-Contato-ff69b4?style=for-the-badge&logo=terminal&logoColor=white" alt="Terminal de Contato"/>
   </a>
-  <a href="https://github.com/seu-usuario">
+  <a href="https://github.com/SindiKali">
     <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
