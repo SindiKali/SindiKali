@@ -38,7 +38,7 @@
 
 ### 🔲 Connect with the Admin
 <div align="center">
-  <a href="mailto:sindikali.sdct@gmail.com">
+  <a href="https://ayo.so/sindikali">
     <img src="https://img.shields.io/badge/Terminal-Contato-ff69b4?style=for-the-badge&logo=terminal&logoColor=white" alt="Terminal de Contato"/>
   </a>
   <a href="https://github.com/SindiKali">
