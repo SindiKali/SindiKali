@@ -15,9 +15,6 @@
 - 🔒 **JAVA ENCRYPTED CHAT**
   - **Descrição:** Chat P2P criptografado com AES para comunicação segura entre IPs.
   - **Stack:** `Java Networking (Sockets)`, `javax.crypto`.
-- ⚡ **DBD BUILD RANDOMIZER (API) [Building]**
-  - **Descrição:** API fullstack e randomizador de builds para Dead by Daylight.
-  - **Stack:** `Python`, `FastAPI`, `SQLModel`, `SQLite`.
 
 ### ✍️ Artigos & Publicações
 - 📝 **Medium:** [Acesse meu perfil](https://medium.com/@sindi.kali) *(Compartilhando estudos e reflexões técnicas)*
