@@ -7,7 +7,7 @@
 ---
 
 ### 💻 System Status
-> **Desenvolvedora Fullstack & Analista de Cibersegurança em formação.** Focada em segurança da informação, arquitetura de software e automação.
+> **Desenvolvedora Fullstack & Analista de Cibersegurança em formação.** Focada em segurança da informação, desenvolvimento de sites e automação.
 > 
 > *Apenas uma cientista que ama xadrez e mulheres.*
 
